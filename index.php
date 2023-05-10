@@ -25,5 +25,23 @@
             </div>
         </div>
     </div>
+    <div class="homepage-big-banner" style="background-image: url('img/razer-blade-16-homepage-desktop.jpg')">
+        <div class="homepage-big-banner-first-text">
+            NEW RAZER BLADE 16
+        </div>
+        <div class="homepage-big-banner-second-text">
+            BIGGER. BETTER. STILL THE BEST.
+        </div>
+        <div class="homepage-big-banner-buttons">
+            <div class="homepage-big-banner-button">
+                <a href="">Learn More</a>
+                <p>></p>
+            </div>
+            <div class="homepage-big-banner-button">
+                <a href="">Buy</a>
+                <p>></p>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
