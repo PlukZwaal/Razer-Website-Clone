@@ -61,5 +61,25 @@
             </div>
         </div>
     </div>
+    <div class="homepage-small-banners">
+        <div class="homepage-small-banner" style="background-image: url('img/blade18-b-950x580-desktop.jpg')">
+            <div class="homepage-small-banner-first-text">
+                NEW RAZER BLADE 18
+            </div>
+            <div class="homepage-small-banner-second-text">
+                THE ULTIMATE DESKTOP REPLACEMENT
+            </div>
+            <div class="homepage-small-banner-buttons">
+                <div class="homepage-small-banner-button">
+                    <a href="">Learn More</a>
+                    <p>></p>
+                </div>
+                <div class="homepage-small-banner-button">
+                    <a href="">Buy</a>
+                    <p>></p>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

@@ -69,7 +69,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    border-bottom: 10px solid #222222;;
+    border-bottom: 10px solid #222222;
     color: white;
     display: flex;
     flex-direction: column;
@@ -78,7 +78,6 @@
 .homepage-big-banner-first-text{
     margin-top: 60px;
     font-size: 50px;
-
 }
 
 .homepage-big-banner-second-text{
@@ -111,5 +110,63 @@
 }
 
 .homepage-big-banner-button a:hover{
+    border-bottom: 1px solid white;
+}
+
+.homepage-small-banners{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    background: #222222;
+    border-bottom: 10px solid #222222;
+}
+
+.homepage-small-banner{
+    height: 575px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.homepage-small-banner-first-text{
+    margin-top: 60px;
+    font-size: 35px;
+}
+
+.homepage-small-banner-second-text{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.homepage-small-banner-buttons{
+    margin-top: 15px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.homepage-small-banner-button{
+    display: flex;
+    flex-direction: row;
+    font-size: 17px;
+}
+
+.homepage-small-banner-button a{
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.homepage-small-banner-button p{
+    color:#44D62C;
+}
+
+.homepage-small-banner-button a:hover{
     border-bottom: 1px solid white;
 }
