@@ -2,11 +2,17 @@
     margin: 0 auto;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    max-width: 1900px;
+}
+
+body{
+    background: black;
 }
 
 .wrapper{
     width: 65%;
     margin: 0 auto;
+    max-width: 2000px;
 }
 
 /* header */
@@ -65,7 +71,7 @@
 /* homepage */
 
 .homepage-big-banner{
-    height: 720px;
+    height: 70vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -194,9 +200,10 @@
 
 .footer{
     padding-top: 30px;
-    background: black;
+    background: #111111;
     padding-bottom: 25px;
 }
+
 
 .footer-grid{
     display: grid;
@@ -288,5 +295,3 @@
     margin-right: 10px;
     color: white;
 }
-
-
