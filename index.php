@@ -11,5 +11,19 @@
 <body>
     <?php require('layouts/navbar.php') ?>
     <?php require('layouts/notification.php') ?>
+    <div class="homepage-big-banner" style="background-image: url('img/viva-la-chroma-homepage-desktop.jpg')">
+        <div class="homepage-big-banner-first-text">
+            VIVA LA CHROMA
+        </div>
+        <div class="homepage-big-banner-second-text">
+            LIGHT IT UP WITH EXCLUSIVE OFFERS
+        </div>
+        <div class="homepage-big-banner-buttons">
+            <div class="homepage-big-banner-button">
+                <a href="">Shop Now</a>
+                <p>></p>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
