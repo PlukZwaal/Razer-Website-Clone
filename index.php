@@ -158,8 +158,8 @@
         </div>
         <div class="homepage-small-banner" style="background-image: url('img/razer-retrosuperfuture-b-950x580-desktop.jpg')">
             <div class="homepage-exclusive">
-            <p id="homepage-exclusive-first-text">RAZER.COM</p>
-            <p id="homepage-exclusive-second-text">EXCLUSIVE</p>
+                <p id="homepage-exclusive-first-text">RAZER.COM</p>
+                <p id="homepage-exclusive-second-text">EXCLUSIVE</p>
             </div>
             <div class="homepage-small-banner-first-text">
                 RAZER | RETROSUPERFUTURE
@@ -179,5 +179,6 @@
             </div>
         </div>
     </div>
+    <?php include 'layouts/footer.php'; ?>
 </body>
 </html>
