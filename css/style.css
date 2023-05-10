@@ -130,6 +130,7 @@
     color: white;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .homepage-small-banner-first-text{
@@ -178,8 +179,13 @@
     font-weight: 600;
     margin-bottom: -45px;
     margin-top: 45px;
+    text-align: left;
 }
 
-#homepage-exclusive-website{
+#homepage-exclusive-first-text{
+    font-size: 11px;
+}
+
+#homepage-exclusive-second-text{
     font-size: 13px;
 }

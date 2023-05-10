@@ -82,8 +82,8 @@
         </div>
         <div class="homepage-small-banner" style="background-image: url('img/enkipro-lamborghini-b-950x580-desktop.jpg')">
             <div class="homepage-exclusive">
-                <p id="homepage-exclusive-website">RAZER.COM</p>
-                <p>EXCLUSIVE</p>
+                <p id="homepage-exclusive-first-text">RAZER.COM</p>
+                <p id="homepage-exclusive-second-text">EXCLUSIVE</p>
             </div>
             <div class="homepage-small-banner-first-text">
                 RAZER ENKI PRO
@@ -122,8 +122,8 @@
         </div>
         <div class="homepage-small-banner" style="background-image: url('img/razer-roblox-b-950x580-desktop.jpg')">
             <div class="homepage-exclusive">
-                <p id="homepage-exclusive-website">RAZER.COM</p>
-                <p>EXCLUSIVE</p>
+                <p id="homepage-exclusive-first-text">RAZER.COM</p>
+                <p id="homepage-exclusive-second-text">EXCLUSIVE</p>
             </div>
             <div class="homepage-small-banner-first-text">
                 RAZER | ROBLOX
@@ -158,8 +158,8 @@
         </div>
         <div class="homepage-small-banner" style="background-image: url('img/razer-retrosuperfuture-b-950x580-desktop.jpg')">
             <div class="homepage-exclusive">
-                <p id="homepage-exclusive-website">RAZER.COM</p>
-                <p>EXCLUSIVE</p>
+            <p id="homepage-exclusive-first-text">RAZER.COM</p>
+            <p id="homepage-exclusive-second-text">EXCLUSIVE</p>
             </div>
             <div class="homepage-small-banner-first-text">
                 RAZER | RETROSUPERFUTURE
@@ -170,6 +170,10 @@
             <div class="homepage-small-banner-buttons">
                 <div class="homepage-small-banner-button">
                     <a href="">Learn More</a>
+                    <p>></p>
+                </div>
+                <div class="homepage-small-banner-button">
+                    <a href="">Buy</a>
                     <p>></p>
                 </div>
             </div>
