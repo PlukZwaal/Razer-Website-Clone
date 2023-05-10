@@ -43,5 +43,23 @@
             </div>
         </div>
     </div>
+    <div class="homepage-big-banner" style="background-image: url('img/razer-blackshark-v2-pro-2023-a-desktop2x.jpg')">
+        <div class="homepage-big-banner-first-text">
+            RAZER BLACKSHARK V2 PRO
+        </div>
+        <div class="homepage-big-banner-second-text">
+            FOR THE PRO.
+        </div>
+        <div class="homepage-big-banner-buttons">
+            <div class="homepage-big-banner-button">
+                <a href="">Learn More</a>
+                <p>></p>
+            </div>
+            <div class="homepage-big-banner-button">
+                <a href="">Buy</a>
+                <p>></p>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
