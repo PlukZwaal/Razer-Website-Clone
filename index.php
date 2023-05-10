@@ -80,6 +80,28 @@
                 </div>
             </div>
         </div>
+        <div class="homepage-small-banner" style="background-image: url('img/enkipro-lamborghini-b-950x580-desktop.jpg')">
+        <div class="homepage-exclusive">
+            <p id="homepage-exclusive-website">RAZER.COM</p>
+            <p>EXCLUSIVE</p>
+        </div>
+            <div class="homepage-small-banner-first-text">
+                RAZER ENKI PRO
+            </div>
+            <div class="homepage-small-banner-second-text">
+                AUTOMOBILI LAMBORGINI EDITION
+            </div>
+            <div class="homepage-small-banner-buttons">
+                <div class="homepage-small-banner-button">
+                    <a href="">Learn More</a>
+                    <p>></p>
+                </div>
+                <div class="homepage-small-banner-button">
+                    <a href="">Buy</a>
+                    <p>></p>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>

@@ -170,3 +170,16 @@
 .homepage-small-banner-button a:hover{
     border-bottom: 1px solid white;
 }
+
+.homepage-exclusive{
+    background: #FF9C07;
+    color: black;
+    padding: 5px 10px 5px 10px;
+    font-weight: 600;
+    margin-bottom: -45px;
+    margin-top: 45px;
+}
+
+#homepage-exclusive-website{
+    font-size: 13px;
+}
