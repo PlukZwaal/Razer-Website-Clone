@@ -40,3 +40,24 @@
 .navbar-content i:hover{
     color: white;
 }
+
+/* notification */
+
+.notification{
+    background: #555555;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 13px 0px 13px 0px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.notification a{
+    color: white;
+    text-decoration: none;
+}
+
+.notification a:hover{
+    border-bottom: 1px solid white;
+}

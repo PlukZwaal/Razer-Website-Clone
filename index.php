@@ -10,5 +10,6 @@
 </head>
 <body>
     <?php require('layouts/navbar.php') ?>
+    <?php require('layouts/notification.php') ?>
 </body>
 </html>
